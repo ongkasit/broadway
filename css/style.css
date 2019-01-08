@@ -20,6 +20,12 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
 /* LINKS */
 .link--cta {
   font-size: 18px;

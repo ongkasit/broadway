@@ -8,6 +8,10 @@ body {
   background-color: white !important;
 }
 
+.section {
+  background-color: white !important;
+}
+
 /* HEADINGS */
 h1 {
   font-size: 70px;
@@ -34,5 +38,9 @@ h3 {
 
 /* TEXT */
 p .process {
+  font-size: 14px;
+}
+
+p .section {
   font-size: 14px;
 }

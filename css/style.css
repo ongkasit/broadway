@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+  background-image: url(./broadway/resources/images/the-flatiron-building.png);
+}
+
+/* HEADINGS */
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+
+/* LINKS */
+.link--cta {
+  font-size: 18px;
+  color: white;
+}
